@@ -84,7 +84,7 @@
 
 ## 🚀 Запуск
 ```bash
-python main.py
+python crypto_app.py
 ```
 
 ## 📱 Ограничения
